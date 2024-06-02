@@ -32,9 +32,13 @@ ANALYSIS AND INSIGHTS:
 Key insights from the analysis include:
 
 Cuisine Popularity: Identified the most popular cuisines.
+
 Rating Distribution: Analyzed the distribution of ratings across restaurants.
+
 Cost Analysis: Compared the average cost for two across different cities.
+
 Online Delivery Trends: Investigated the prevalence of online delivery services.
+
 
 
 TECHNOLOGIES USED:
