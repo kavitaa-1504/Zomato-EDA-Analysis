@@ -11,17 +11,20 @@ The dataset used for this analysis is from Zomato, containing information about 
 
 Source: Zomato Kaggle Dataset
 Size: Approximately 10,000 records
+
+
 Fields:
-Restaurant Name
-City
-Cuisine
-Average Cost for Two
-Currency
-Has Table Booking
-Has Online Delivery
-Aggregate Rating
-Rating Color
-Rating Text
+
+Restaurant Name,
+City,
+Cuisine,
+Average Cost for Two,
+Currency,
+Has Table Booking,
+Has Online Delivery,
+Aggregate Rating,
+Rating Color,
+Rating Text,
 Votes
 
 ANALYSIS AND INSIGHTS:
